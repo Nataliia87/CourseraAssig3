@@ -1,4 +1,5 @@
-"variable.name" "Description" "source" "filename"
+### CodeBook
+## "variable.name" "Description" "source" "filename"
 "1" "Subject" "ID the subject who performed the activity for each window sample. Its range is from 1 to 30." "CourseraAssig3" "CodeBook.md"
 "2" "actName" "Activity name" "CourseraAssig3" "CodeBook.md"
 "3" "TimeBodyAccelerometr-Mean-X" "Average from mean of time variable for body signal in X direction using Accelerometr" "CourseraAssig3" "CodeBook.md"
